@@ -1,7 +1,7 @@
 from pathlib import Path
 import shutil
 import logging
-from FileHandeling import main as m
+from FileHandeling import FileHandlingOperations as m
 import json
 
 # -------------------------------------------------------------------------
